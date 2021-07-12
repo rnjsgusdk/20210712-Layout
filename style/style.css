@@ -1,0 +1,27 @@
+@charset"UTF-8";
+@import url(style_Reset.css);
+
+div#warp
+{
+    height: 1150px;
+    width: 775px;
+    border: 1px solid #000;
+}
+
+div#header
+{
+    width: 170px;
+    border: 1px solid #f70;
+
+
+}
+
+#header h1
+{
+
+    line-height: #333;
+}
+#hader nav#gnb
+{
+  text-align: center;
+}
